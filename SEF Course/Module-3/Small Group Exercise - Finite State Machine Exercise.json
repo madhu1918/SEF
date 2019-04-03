@@ -1,0 +1,26 @@
+[{
+	"title": "Small Group Exercise - Finite State Machine Exercise",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>Professionals develop ways of working that allows them to serve their clients at a higher level of performance beyond what most skilled workers can do. In order to be significantly better than most skilled workers require a significant investment on the professional’s part. They need to know more, practice more, become skilled using the tools that will help them operate at this higher level, and regularly take time to update and enhance their capabilities."
+		},
+		{
+			"text": "<br>Scientists and engineers recognize patterns and use this insight to develop tools that give them an advantage over skilled workers who primarily do what they supervisors tell them to do using specified tools and procedures. Mathematics and statistics are two of the most significant tools that scientists and engineers use to great effect. Finite State Machines are foundational tools for engineers and computer sciences. Mealy machines and Moore machines are types of Finite State Machines that are used by both computer scientists and electrical engineers. Recognizers are a variation that is primarily used by software developers and is the target of this research."
+		},
+		{
+			"text": "<br>Please find the zip"
+		},
+		{
+			"attachment": ["00 Come-prepared materials.zip"]
+		},
+		{
+			"attachment": ["01 Small Group Exercise - Finite State Machine Exercise.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - Finite State Machine Exercise"
+	}]
+	}
+]

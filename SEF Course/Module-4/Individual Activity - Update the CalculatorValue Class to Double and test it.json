@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Update the CalculatorValue Class to Double and test it",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this activity is to continue learning how to use Test-Driven Development."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["06 Individual Activity - Update the CalculatorValue Class to Double and test it.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Update the CalculatorValue Class to Double and test it"
+	}]
+	}
+]

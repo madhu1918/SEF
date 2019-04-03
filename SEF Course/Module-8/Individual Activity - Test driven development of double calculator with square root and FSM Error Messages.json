@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Test driven development of double calculator with square root and FSM Error Messages",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to further practice test-driven development to finish the second delivery of the Calculator (with Square Root and FSM Error Messages)."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["03 Individual Activity - Test driven development of double calculator with square root and FSM Error Messages.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Test driven development of double calculator with square root and FSM Error Messages"
+	}]
+	}
+]

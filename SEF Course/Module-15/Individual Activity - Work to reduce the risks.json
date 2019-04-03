@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Work to reduce the risks",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this exercise is to reduce the list of risks that could be the cause of significant problems in completing the projects on time and with quality."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["05 Individual Activity - Work to reduce the risks.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Work to reduce the risks"
+	}]
+	}
+]

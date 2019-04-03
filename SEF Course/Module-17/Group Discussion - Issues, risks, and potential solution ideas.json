@@ -1,0 +1,20 @@
+[{
+	"title": "Group Discussion - Issues, risks, and potential solution ideas",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this exercise is to leverage the insights of others to help each of us consider new ideas to address problems that are blocking us."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["08 Group Discussion - Issues, risks, and potential solution ideas.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Group Discussion - Issues, risks, and potential solution ideas"
+	}]
+	}
+]

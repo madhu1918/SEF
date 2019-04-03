@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Activity - Help others get the enhanced error message working",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this activity is for members of each small group to help the others in their group to resolve any problems with the use of the Finite State Machine FPR written in Java and its integration into the Calculator in order to produce better error messages."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["06 Small Group Activity - Help others get the enhanced error messages working.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Help others get the enhanced error message working"
+	}]
+	}
+]

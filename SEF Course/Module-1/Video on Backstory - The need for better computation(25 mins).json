@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Video on Backstory - The need for better computation(25 mins)",
+		"activityType":"video",
+		"videoURL":"03 - Backstory - 2019 converted.mp4",
+		"videoResources" : "06 Video - Backstory - The need for better computation (Video 03).zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Backstory - The need for better computation(25 mins)"
+			}
+		
+		]
+	}
+]
+
+

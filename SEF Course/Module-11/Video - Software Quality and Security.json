@@ -1,0 +1,21 @@
+[
+	{
+		"title":"Video - Software Quality and Security",
+		"activityType":"video",
+		"videoURL":"02 Software Quality and Security converted.mp4",
+		"videoResources" : "08 Video - Software Quality and Security.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video - Software Quality and Security"
+			}
+		
+		]
+	}
+]
+
+
+

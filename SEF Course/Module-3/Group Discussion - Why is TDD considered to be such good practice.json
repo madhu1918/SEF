@@ -1,0 +1,20 @@
+[{
+	"title": "Group Discussion - Why is TDD considered to be such good practice",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this discussion is to get the entire cohort to engage with one another to explore what they learned about Test-Driven Development from the video and from an actual experience. By holding a  group discussion, we can surface and explore more and varied ideas."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["08 Group Discussion - Why is TDD considered to be such good practice.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Group Discussion - Why is TDD considered to be such good practice? How can it be applied here"
+	}]
+	}
+]

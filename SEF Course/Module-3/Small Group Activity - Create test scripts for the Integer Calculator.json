@@ -1,0 +1,23 @@
+[{
+	"title": "Small Group Activity - Create test scripts for the Integer Calculator",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>Being able to produce quality work on time starts with a clear understanding of what it is that must be done. Far too many people trust their memory and then find themselves letting people down, often without even realizing that they are doing it, because they forgot that they had made the commitment.Just because you do not remember the commitment does not mean that the people to whom you made the commitment will also forget."
+		},
+		{
+			"text": "<br>This exercise has you develop a test script and used that activity to be clear about everything you are supposed to do. The point of testing is to make sure that your program does what it is supposed to do. If you can’t remember what you were supposed to do, how can you be sure that you have indeed tested everything that needs to be tested?"
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["03 Small Group Activity - Create test scripts for the Integer Calculator.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Create test scripts for the Integer Calculator"
+	}]
+	}
+]

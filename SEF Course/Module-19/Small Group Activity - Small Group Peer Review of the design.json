@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Activity - Small Group Peer Review of the design",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to level the perspective of the various small groups to help each other improve their design and their code"
+		},
+		{
+			"text": "<br>Please find the attachment"
+		},
+		{
+			"attachment": ["04 Small Group Activity - Small Group Peer Review of the design.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Small Group Peer Review of the design"
+	}]
+	}
+]

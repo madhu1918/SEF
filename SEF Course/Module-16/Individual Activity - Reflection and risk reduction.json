@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Reflection and risk reduction",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>Consider the what has happened, looking for patterns, and figuring out how to improve what you are doing and how you do it."
+		},
+		{
+			"text": "<br>Please find the come Come-prepared materials"
+		},
+		{
+			"attachment": ["05 Individual Activity - Reflect on the project so far and Complete any incomplete tasks.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Reflection and risk reduction"
+	}]
+	}
+]

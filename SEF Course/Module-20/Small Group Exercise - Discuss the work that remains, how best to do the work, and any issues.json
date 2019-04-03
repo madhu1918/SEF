@@ -1,0 +1,26 @@
+[{
+	"title": "Small Group Exercise - Discuss the work that remains, how best to do the work, and any issues",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this exercise is to help you and your work group to develop a clear picture of the work that remains, so you can invest your energies wisely."
+		},
+		{
+			"text": "<br>Please find the come prepared materials"
+		},
+		{
+			"attachment": ["00 Come-prepared materials.zip"]
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["01 Small Group Exercise - Discuss the work that remains, how best to do the work, and any issues.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - Discuss the work that remains, how best to do the work, and any issues"
+	}]
+	}
+]

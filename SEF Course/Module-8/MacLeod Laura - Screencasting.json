@@ -1,0 +1,17 @@
+[{
+	"title": "MacLeod Laura - Screencasting",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["MacLeod Laura - Screencasting.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the MacLeod Laura - Screencasting"
+	}]
+	}
+]

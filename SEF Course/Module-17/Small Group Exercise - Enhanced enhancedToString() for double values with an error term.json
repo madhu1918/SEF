@@ -1,0 +1,26 @@
+[{
+	"title": "Small Group Exercise - Enhanced enhancedToString() for double values with an error term",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this exercise is to enhance your tools to support the use of measured values with error terms."
+		},
+		{
+			"text": "<br>Please find the come Come-prepared materials "
+		},
+		{
+			"attachment": ["00 Come-prepared materials.zip"]
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["01 Small Group Exercise - Enhanced enhancedToString() for double values with an error term.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - Enhanced enhancedToString() for double values with an error term"
+	}]
+	}
+]

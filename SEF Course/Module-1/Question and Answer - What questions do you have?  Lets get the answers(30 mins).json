@@ -1,0 +1,20 @@
+[{
+	"title": "Question and Answer - What questions do you have?  Let's get the answers.(30 mins)",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "This discussion is intended to make it clear that it is always reasonable to have questions and doubts. What is unreasonable is to have these questions and doubts and be afraid to resolve them."
+		},
+		{
+			"text": "<br>Please find the pdf below"
+		},
+		{
+			"attachment": ["05 Group Discussion - What questions do you have... let_s get the answers.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Question and Answer - What questions do you have?"
+	}]
+	}
+]

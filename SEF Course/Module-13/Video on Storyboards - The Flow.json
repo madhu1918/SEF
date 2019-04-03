@@ -1,0 +1,21 @@
+[
+	{
+		"title":"Video on Storyboards - The Flow",
+		"activityType":"video",
+		"videoURL":"09 Storyboards - The Flow converted.mp4",
+		"videoResources" : "09 Storyboards - The Flow.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Storyboards - The Flow"
+			}
+		
+		]
+	}
+]
+
+
+

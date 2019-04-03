@@ -1,0 +1,20 @@
+[{
+	"title": "Group Discussion - Discuss how Newtons Method for finding square root works",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this discussion is to explore implementation of double-based Newton’s Method for finding square root."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["08 Group Discussion - Discuss how Newton_s Method for finding square root works.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Group Discussion - Discuss how Newtons Method for finding square root works"
+	}]
+	}
+]

@@ -1,0 +1,26 @@
+[{
+	"title": "Small Group Exercise - Computing with Error Terms using Addition and Subtraction",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to practice the use of basic arithmetic with measured values are expressed with error terms."
+		},
+		{
+			"text": "<br>Please find the come prepared materials "
+		},
+		{
+			"attachment": ["00 Come-prepared materials.zip"]
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["01 Small Group Exercise - Computing with Error Terms using Addition and Subtraction.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - Computing with Error Terms using Addition and Subtraction"
+	}]
+	}
+]

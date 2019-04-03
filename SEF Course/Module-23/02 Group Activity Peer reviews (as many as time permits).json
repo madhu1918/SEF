@@ -1,0 +1,20 @@
+[{
+	"title": "02 Group Activity Peer reviews (as many as time permits)",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the activity</b><br>Provide even broader insight from multiple other sources about the quality of your work."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["02 Group Activity - Peer reviews (as many as time permits).zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the 02 Group Activity Peer reviews (as many as time permits)"
+	}]
+	}
+]

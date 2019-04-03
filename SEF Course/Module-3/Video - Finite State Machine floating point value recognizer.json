@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Video - Finite State Machine floating point value recognizer",
+		"activityType":"video",
+		"videoURL":"11 Finite State Machines and a Floating Point Value Recognizer converted.mp4",
+		"videoResources" : "11 Video - Finite State Machine floating point value recognizer.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video - Finite State Machine floating point value recognizer"
+			}
+		
+		]
+	}
+]
+
+

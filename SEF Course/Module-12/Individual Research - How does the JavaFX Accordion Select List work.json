@@ -1,0 +1,23 @@
+[{
+	"title": "Individual Research - How does the JavaFX Accordion Select List work",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<br>Please find the come prepared materials"
+		},
+		{
+			"attachment": ["00 Come-prepared materials.zip"]
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["03 Individual Research - How does the JavaFX Accordion Select List work.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Research - How does the JavaFX Accordion Select List work"
+	}]
+	}
+]

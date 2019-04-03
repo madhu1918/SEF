@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Reflection for the fast and catch up for the rest",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>If you are current with all of your activities, this block of time is to be spent on reflection and on refactoring your work with the goal of establishing a compelling demonstration of your capabilities. If you have not finished all of the scheduled work and are behind, this block of time is to be spent catching up so you too can demonstrate your capabilities by means of a compelling body of work."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["06 Individual Activity - Reflection for the fast and catch up for the rest.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Reflection for the fast and catch up for the rest"
+	}]
+	}
+]

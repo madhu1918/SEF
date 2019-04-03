@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Refine and refactor your architecture and design",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to leverage the peer review and group discussions in order to improve the architecture and design for the calculator."
+		},
+		{
+			"text": "<br>Please find the attachment"
+		},
+		{
+			"attachment": ["10 Individual Activity - Refine and refactor your architecture and design.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Refine and refactor your architecture and design"
+	}]
+	}
+]

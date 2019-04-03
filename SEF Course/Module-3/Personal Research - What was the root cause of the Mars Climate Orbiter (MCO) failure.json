@@ -1,0 +1,20 @@
+[{
+	"title": "Personal Research - What was the root cause of the Mars Climate Orbiter (MCO) failure",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this activity is to give each student time to learn the facts about the loss of the MCO and what people in positions of authority have to say about what went wrong."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["09 Personal Research - What was the root cause of the Mars Climate Orbiter failure.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Personal Research - What was the root cause of the Mars Climate Orbiter (MCO) failure"
+	}]
+	}
+]

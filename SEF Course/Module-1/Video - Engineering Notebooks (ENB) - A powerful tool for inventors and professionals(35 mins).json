@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Video - Engineering Notebooks (ENB) - A powerful tool for inventors and professionals(35 mins)",
+		"activityType":"video",
+		"videoURL":"04 - Engineering Notebook - 2019 converted.mp4",
+		"videoResources" : "12 Video - Engineering Notebooks (ENB) - A powerful tool for inventors and professionals (Video 04).zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video - Engineering Notebooks (ENB) - A powerful tool for inventors and professionals(35 mins)"
+			}
+		
+		]
+	}
+]
+
+

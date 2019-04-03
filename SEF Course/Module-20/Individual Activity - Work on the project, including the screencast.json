@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Work on the project, including the screencast",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to move your final calculator, it’s documentation, and your screencast toward a state that it is ready for public demonstration and release."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["05 Individual Activity - Work on the project, including the screencast.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Work on the project, including the screencast"
+	}]
+	}
+]

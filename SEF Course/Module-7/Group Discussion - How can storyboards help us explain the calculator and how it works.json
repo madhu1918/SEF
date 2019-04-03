@@ -1,0 +1,20 @@
+[{
+	"title": "Group Discussion - How can storyboards help us explain the calculator and how it works",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>Keeping and maintaining effective engineering notebooks for your professional work will bring significant return to you over your career. This activity is performed every day you perform work on the project."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["11 Group Discussion - How can storyboards help us explain the calculator and how it works.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Group Discussion - How can storyboards help us explain the calculator and how it works"
+	}]
+	}
+]

@@ -1,0 +1,20 @@
+[{
+	"title": "Informal Peer Review - Flow from enhanced toString design to test cases",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this exercise is to leverage the insights of others to help each of us consider new ideas to address problems that are blocking us."
+		},
+		{
+			"text": "<br>Please find the come Come-prepared materials"
+		},
+		{
+			"attachment": ["03 Informal Peer Review - Flow from enhanced toString design to test cases.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Informal Peer Review - Flow from enhanced toString design to test cases"
+	}]
+	}
+]

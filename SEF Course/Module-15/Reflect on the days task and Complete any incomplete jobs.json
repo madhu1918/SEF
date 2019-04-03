@@ -1,0 +1,20 @@
+[{
+	"title": "Reflect on the days task and Complete any incomplete jobs",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>Consider the what has happened, looking for patterns, and figuring out how to improve what you are doing and how you do it."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["11 Individual Activity - Reflect on the day_s task and Complete any incomplete tasks.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Reflect on the days task and Complete any incomplete jobs"
+	}]
+	}
+]

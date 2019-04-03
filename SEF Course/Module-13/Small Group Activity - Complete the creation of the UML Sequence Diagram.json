@@ -1,0 +1,20 @@
+[{
+	"title": "mall Group Activity - Complete the creation of the UML Sequence Diagram",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to complete the detailed design for the GUI Units input selection."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["06 Small Group Activity - Complete the creation of the UML Sequence Diagram.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the mall Group Activity - Complete the creation of the UML Sequence Diagram"
+	}]
+	}
+]

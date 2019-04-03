@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Course evaluation and feedback for improvement",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the activity</b><br>Reflect on this experience, perform a course evaluation (using the form provided to you by your mentor), and provide feedback to help us improve the course."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["03 Individual Activity - Course evaluation and feedback for improvement.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Course evaluation and feedback for improvement"
+	}]
+	}
+]

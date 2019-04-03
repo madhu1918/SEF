@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Refine the Integer calculator and validate it using the test script",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>Given a list of things to do is, in many ways, the easy part. Actually doing the work is the hard part. The  challenge is to get into a rhythm and to systematically work your way toward completion. In this case, understand each requirement, determine whether or not the item remains to be addressed. If not, mark it done and move on. If it is still as issue, start by reflecting on work you have already done and ask yourself how you might be able to leverage what you’ve done and/or know to accomplish this task. If you have an epiphany, write it down in your ENB right now. It is fascinating how quickly this clarity can fade and then disappear."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["04 Individual Activity - Refine the Integer calculator and validate it using the test script.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Refine the Integer calculator and validate it using the test script"
+	}]
+	}
+]

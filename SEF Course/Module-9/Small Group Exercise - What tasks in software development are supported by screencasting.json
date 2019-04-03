@@ -1,0 +1,26 @@
+[{
+	"title": "Small Group Exercise - What tasks in software development are supported by screencasting",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to explore the benefits and processes of screencasting."
+		},
+		{
+			"text": "<br>Please find the come prepared materials"
+		},
+		{
+			"attachment": ["00 Come-prepared materials.zip"]
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["01 Small Group Exercise - What tasks in software development are supported by screencasting.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - What tasks in software development are supported by screencasting"
+	}]
+	}
+]

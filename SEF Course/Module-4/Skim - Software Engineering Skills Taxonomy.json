@@ -1,0 +1,17 @@
+[{
+	"title": "Skim - Software Engineering Skills Taxonomy",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<br>Please find the file"
+		},
+		{
+			"attachment": ["11 Skim - SE Skill and Outcome Taxonomy and SFIA.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Skim - Software Engineering Skills Taxonomy"
+	}]
+	}
+]

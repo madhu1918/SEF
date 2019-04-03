@@ -1,0 +1,20 @@
+[{
+	"title": "Group Discussion - Storyboard Design Brainstorm Multi-vote - The major design choices",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to consider what the various design choices are and which of these will be easier or harder to implement."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["06 Group Discussion - Storyboard Design Brainstorm Multi-vote - The major design choices.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Group Discussion - Storyboard Design Brainstorm Multi-vote - The major design choices"
+	}]
+	}
+]

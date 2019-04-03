@@ -1,0 +1,20 @@
+[{
+	"title": "Peer Review - Double Calculator with Error Terms",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>Provide insight from another source about the quality of your work and possible new ideas about how to do this work moving forward."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["06 Peer Review - Double Calculator with Error Terms.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Peer Review - Double Calculator with Error Terms"
+	}]
+	}
+]

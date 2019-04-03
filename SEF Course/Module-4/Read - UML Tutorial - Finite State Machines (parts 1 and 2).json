@@ -1,0 +1,17 @@
+[{
+	"title": "Read - UML Tutorial - Finite State Machines (parts 1 and 2)",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<br>Please find the zip"
+		},
+		{
+			"attachment": ["10 UML Tutorial - Finite State Machines (Parts 1 and 2).zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Read - UML Tutorial - Finite State Machines (parts 1 and 2)"
+	}]
+	}
+]

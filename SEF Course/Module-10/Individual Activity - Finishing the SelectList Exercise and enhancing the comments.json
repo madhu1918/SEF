@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Finishing the SelectList Exercise and enhancing the comments",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>Provide insight from another source about the quality of your work and possible new ideas about how to do this work moving forward."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["05 Individual Activity - Finishing the SelectList Exercise and enhancing the comments.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Finishing the SelectList Exercise and enhancing the comments"
+	}]
+	}
+]

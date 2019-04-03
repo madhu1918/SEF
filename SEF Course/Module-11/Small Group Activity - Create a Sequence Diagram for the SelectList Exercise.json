@@ -1,0 +1,17 @@
+[{
+	"title": "Small Group Activity - Create a Sequence Diagram for the SelectList Exercise",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["05 Small Group Activity - Create a Sequence Diagram for the SelectList Exercise.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Create a Sequence Diagram for the SelectList Exercise"
+	}]
+	}
+]

@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Activity - Build a To Do List for the Double Calculator using TDD",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this activity is to continue learning how to use Test-Driven Development and to start the implementation of the calculator supporting double values and the other required features."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["05 Small Group Activity - Build a To Do List for the Double Calculator using TDD.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Build a To Do List for the Double Calculator using TDD"
+	}]
+	}
+]

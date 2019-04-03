@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Exercise - Finite State Machines 2",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to practice what you have learned about finite state machines and to learn to create a new finite state machine to deal with a new requirement."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["02 Small Group Exercise - Finite State Machines 2.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - Finite State Machines 2"
+	}]
+	}
+]

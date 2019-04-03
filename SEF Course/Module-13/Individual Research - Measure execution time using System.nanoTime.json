@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Research - Measure execution time using System.nanoTime",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to learn how to measure the time it takes code to perform its work."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["11 Individual Activity - Reflect on the day_s task and Complete any incomplete tasks.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Research - Measure execution time using System.nanoTime"
+	}]
+	}
+]

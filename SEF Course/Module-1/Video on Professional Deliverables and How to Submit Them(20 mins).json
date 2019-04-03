@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Video on Professional Deliverables and How to Submit Them(20 mins)",
+		"activityType":"video",
+		"videoURL":"02 - Professional Deliverables - 2019 converted.mp4",
+		"videoResources" : "04 Video - Professional Deliverables and How to Submit Them (Video 02).zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Professional Deliverables and How to Submit Them(20 mins)"
+			}
+		
+		]
+	}
+]
+
+

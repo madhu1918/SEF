@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Refine the Double Calculator and add test cases to validate",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this activity is to integrate all that you have learned in order to produce a solid deliverable as required to meet the client’s needs as expressed in the Rubric."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["02 Individual Activity - Refine the Double Calculator and add automated tests to validate.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Refine the Double Calculator and add test cases to validate"
+	}]
+	}
+]

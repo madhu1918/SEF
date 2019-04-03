@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Activity - Introduction to Units and the Hohmann Transfer Orbit(45 mins)",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "Not everything to do with rocket science is really hard. Computing details required to get a rock from Earth orbit to Mars orbit is actually very easy, once you have the right equations. Luckily you have access to them, so this activity focused you on the examination of the Calculating a Hohmann Transfer in 15 Steps."
+		},
+		{
+			"text": "Please find the reading material "
+		},
+		{
+			"attachment": ["activity-8.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Introduction to Units and the Hohmann Transfer Orbit(45 mins)"
+	}]
+	}
+]

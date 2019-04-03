@@ -1,0 +1,20 @@
+[{
+	"title": "Read Papers - Precision in Scientific Applications and Units of Measure",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The more we study, the more we realize there is to learn. As small children, we learned math and the idea that there are right and wrong answers to simple arithmetic problems. I enjoyed math, because I liked being able to check my work to ensure that I had the right answer. It wasn’t until much later that I came to understand that there are seldom simple right and wrong answers to the important questions in the real world. <br>This turns out to be true in so many things. In scientific applications, there are some cases whether there are exact values. In most cases, however, whatever the figure we use, there is some degree of uncertainty. For example, it is true that we can count the number of cars in a small parking lot and feel comfortable about the number being exact. As the parking lot becomes larger and larger, it becomes more difficult to be so certain. While you were in the middle of the count in one portion of the lot, did some people come back to their cars and leave from that portion of the lot you have already counted without you knowing it?"
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["11 Read - Precision in Scientific Applications and Units of Measure.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Read Papers - Precision in Scientific Applications and Units of Measure"
+	}]
+	}
+]

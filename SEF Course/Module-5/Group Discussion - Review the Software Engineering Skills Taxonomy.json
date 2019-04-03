@@ -1,0 +1,20 @@
+[{
+	"title": "Group Discussion - Review the Software Engineering Skills Taxonomy",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this discussion is to open the class to the realization that software development is a very broad field and there are many interesting, challenging, and rewarding jobs in the domain. It is also critical to realize that there are far too any new tools, processes, methods, languages, frameworks, architectures, and innovations for any one person to know them all. This requires true professionals to be aware of these realities in order to properly interact with others; but being current and a trusted resource to your firm will force you to focus on a small subset."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["08 Group Discussion - Review the Software Engineering Skills Taxonomy.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Group Discussion - Review the Software Engineering Skills Taxonomy"
+	}]
+	}
+]

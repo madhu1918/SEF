@@ -1,0 +1,20 @@
+[{
+	"title": "Group Discussion - The shift from double to UNumber",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to begin the process of designing the third version of the calculator and setting up for the fourth version without destroying the good architecture and design work that produced what is currently there."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["08 Group Discussion - The shift from double to UNumber.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Group Discussion - The shift from double to UNumber"
+	}]
+	}
+]

@@ -1,0 +1,23 @@
+[{
+	"title": "Small Group Activity - Encoding a FSM Diagram for the simulator and testing the simulator",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The iterative cycle of design, code, test is critical and, in many cases, each of these three steps themselves should be broken down into sub-steps that follow much the same pattern. Consider using a FSM machine as a design for a Java implementation. How do you ensure that the design is correct? In this assignment, we will use a FSM Simulator to check the design with actual input. If the simulator says the design is correct, then we will proceed to coding that design in Java."
+		},
+		{
+			"text": "<br>Doing work and then verifying that is was done correctly before building upon it is a crucial concept. A formalism, such as Finite State Machines, make this possible. In engineering, we use such formalisms to check our work and to ensure that our results operate as expected before we release them for use. Learning such formalism in software development and using them is a key aspect of becoming a professional."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["05 Small Group Activity - Encoding a FSM Diagram for the simulator and testing the simulator.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Encoding a FSM Diagram for the simulator and testing the simulator"
+	}]
+	}
+]

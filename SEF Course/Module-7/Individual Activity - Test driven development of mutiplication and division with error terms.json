@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Test driven development of mutiplication and division with error terms",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to practice test-driven development and the use of basic arithmetic with measured values are expressed with error terms."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["07 Individual Activity - Test driven development of multiplication and division with error terms.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Test driven development of mutiplication and division with error terms"
+	}]
+	}
+]

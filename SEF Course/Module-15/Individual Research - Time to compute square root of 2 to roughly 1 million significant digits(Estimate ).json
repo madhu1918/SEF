@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Research - Time to compute square root of 2 to roughly 1 million significant digits(Estimate )",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to learn how to gather performance data, identify a pattern, and leverage that information in order to answer questions."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["10 Individual Research - Time to compute square root of 2 to roughly 1 million significant digits.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Research - Time to compute square root of 2 to roughly 1 million significant digits(Estimate )"
+	}]
+	}
+]

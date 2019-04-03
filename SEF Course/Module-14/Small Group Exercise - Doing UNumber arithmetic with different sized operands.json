@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Exercise - Doing UNumber arithmetic with different sized operands",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this exercise is to explore the impact of the size of operands on the size of the result when doing calculations with the UNumber API."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["02 Small Group Exercise - Doing UNumber arithmetic with different sized operands.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - Doing UNumber arithmetic with different sized operands"
+	}]
+	}
+]

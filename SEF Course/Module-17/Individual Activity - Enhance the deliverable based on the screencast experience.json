@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Enhance the deliverable based on the screencast experience",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to improve the deliverables based on your experience producing the screencast and actually trying to use the calculator." 
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["06 Individual Activity - Enhance the deliverables based on the screencast experience.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Enhance the deliverable based on the screencast experience"
+	}]
+	}
+]

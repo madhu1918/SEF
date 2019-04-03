@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Activity - Build operator tables for Metric values for add, subtract, multiply and divide",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to make your knowledge more concrete and to be more specific to what is required to better address the client’s needs."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["activity-9.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Build operator tables for Metric values for add, subtract, multiply and divide"
+	}]
+	}
+]

@@ -1,0 +1,20 @@
+[{
+	"title": "Discussion - What do you think we are being asked to do(30 mins)",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "Separating what the client says they want from what they really need is difficult. Things were so much easier when we were children, when answers were easy and obviously correct. The older we get, the more complex the questions become, and the harder they are to answer. The purpose of this discussion is to begin the students down a complex path to understanding what is really needed and how to deliver it."
+		},
+		{
+			"text": "<br>Please find the pdf below"
+		},
+		{
+			"attachment": ["07 Group Discussion - What do you think we are really being asked to do.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Discussion - What do you think we are being asked to do(30 mins)"
+	}]
+	}
+]

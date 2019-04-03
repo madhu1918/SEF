@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Activity - Implementing the SelectList Exercise for two items",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to lay the foundational code for the selectlist exercise."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["02 Small Group Activity - Implementing the SelectList Exercise for four items.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Implementing the SelectList Exercise for two items"
+	}]
+	}
+]

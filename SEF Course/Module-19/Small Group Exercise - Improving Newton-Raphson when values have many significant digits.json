@@ -1,0 +1,26 @@
+[{
+	"title": "Small Group Exercise - Improving Newton-Raphson when values have many significant digits",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this exercise is to understand how to get the best performance from the Newton- Raphson method."
+		},
+		{
+			"text": "<br>Please find the come prepared materials"
+		},
+		{
+			"attachment": ["00 Come-prepared materials.zip"]
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["01 Small Group Exercise - Improving Newton-Raphson when values have many significant digits.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - Improving Newton-Raphson when values have many significant digits"
+	}]
+	}
+]

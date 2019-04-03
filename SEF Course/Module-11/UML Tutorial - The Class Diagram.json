@@ -1,0 +1,23 @@
+[{
+	"title": "UML Tutorial - The Class Diagram",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<br>Please find the Come prepared materials"
+		},
+		{
+			"attachment": ["00 Come-prepared materials.zip"]
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["UML Tutorial - The Class Diagram.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the UML Tutorial - The Class Diagram"
+	}]
+	}
+]

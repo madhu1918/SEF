@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Produce and Engineering Note Book (ENB) entry for the day's work and plan for next week",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>Keeping and maintaining effective engineering notebooks for your professional work will bring significant return to you over your career. This activity is performed every day you perform work on the project."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["03 Individual Activity - Produce and Engineering Note Book (ENB) entry for the day_s work and plan for next week.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Produce and Engineering Note Book (ENB) entry for the day's work and plan for next week"
+	}]
+	}
+]

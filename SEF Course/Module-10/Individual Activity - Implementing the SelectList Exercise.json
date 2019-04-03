@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Implementing the SelectList Exercise",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to build upon the foundational code for the selectlist exercise."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["03 Individual Activity - Implementing the SelectList Exercise.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Implementing the SelectList Exercise"
+	}]
+	}
+]

@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Research - Very long selection lists",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to push you to think about the best way to support the user of the calculator when it comes to specifying the units for a value."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["12 Individual Research - Very long selection lists.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Research - Very long selection lists"
+	}]
+	}
+]

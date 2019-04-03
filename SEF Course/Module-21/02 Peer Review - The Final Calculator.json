@@ -1,0 +1,20 @@
+[{
+	"title": "02 Peer Review - The Final Calculator",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the activity</b><br>Provide insight from another source about the quality of your work and possible new ideas about how to do this work better."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["02 Peer Review - The Final Calculator.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the 02 Peer Review - The Final Calculator"
+	}]
+	}
+]

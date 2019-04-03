@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Activity - Dynamic Select Lists",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to practice explore several options for receiving input from a user in order to capture the units for a calculator value."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["09 Small Group Activity - Dynamic Select Lists.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Dynamic Select Lists"
+	}]
+	}
+]

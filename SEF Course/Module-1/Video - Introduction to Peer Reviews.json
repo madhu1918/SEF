@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Video - Introduction to Peer Reviews",
+		"activityType":"video",
+		"videoURL":"13 Peer Reviews converted.mp4",
+		"videoResources" : "13 Video - Introduction to Peer Reviews (Video 05).zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video - Introduction to Peer Reviews"
+			}
+		
+		]
+	}
+]
+
+

@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Submit your project",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to properly submit your work."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["02 Individual Activity - Submit your project.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Submit your project"
+	}]
+	}
+]

@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Exercise - Very long select lists",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to explore the ramifications of the decision to support units in the calculator."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["02 Small Group Exercise - Very long select lists.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - Very long select lists"
+	}]
+	}
+]

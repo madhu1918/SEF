@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Individual FSM experimentation",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>This activity is about building upon what you have been learning to ensure the basic concepts are solid and to start to broaden these concepts to more useful endeavors. The Even and Odd number recognizer is not very useful, while a recognizer that can distinguish value Error Terms from other very similar looking input values is useful!"
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["06 Individual Activity - Individual FSM experimentation.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Individual FSM experimentation"
+	}]
+	}
+]

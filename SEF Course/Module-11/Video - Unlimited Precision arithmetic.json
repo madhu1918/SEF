@@ -1,0 +1,21 @@
+[
+	{
+		"title":"Video - Unlimited Precision arithmetic",
+		"activityType":"video",
+		"videoURL":"09 Unlimited Precision Arithmetic converted.mp4",
+		"videoResources" : "09 Video - Unlimited Precision arithmetic.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video - Unlimited Precision arithmetic"
+			}
+		
+		]
+	}
+]
+
+
+

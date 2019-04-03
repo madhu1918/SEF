@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Exercise - What kinds of errors do white- and black-box tesing catch",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to explore the methods of white- and black-box testing."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["05 Small Group Exercise - What kinds of errors do white- and black-box testing catch.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - What kinds of errors do white- and black-box tesing catch"
+	}]
+	}
+]

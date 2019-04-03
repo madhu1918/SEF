@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Implement the Integer Calculator",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to finish the implementation of the integer calculator in alignment with the already provided architecture and design."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["activity-7.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Implement the Integer Calculator"
+	}]
+	}
+]

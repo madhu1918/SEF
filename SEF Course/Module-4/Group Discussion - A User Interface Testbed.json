@@ -1,0 +1,20 @@
+[{
+	"title": "Group Discussion - A User Interface Testbed",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this discussion is push the students to dig more deeply into making the user interface both externally attractive and internally easy to understand and implement."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["03 Group Discussion - A User Interface Testbed.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Group Discussion - A User Interface Testbed and Javadoc"
+	}]
+	}
+]

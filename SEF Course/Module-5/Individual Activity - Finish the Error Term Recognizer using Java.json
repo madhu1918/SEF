@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Finish the Error Term Recognizer using Java",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this activity is to build upon the previous activity’s work and to give you more practice transforming another FSM diagram into Java."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["12 Individual Activity - Finish the Error Term Recognizer using Java.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Finish the Error Term Recognizer using Java"
+	}]
+	}
+]

@@ -1,0 +1,20 @@
+[{
+	"title": "Group Discussion - The Flow from Storyboard to User Stories to Use Case to Design",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to consider what the story will be that will serve as the starting point for the design of the calculator."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["09 Group Discussion - The Flow from Storyboard to User Stories to Use Case to Design.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Group Discussion - The Flow from Storyboard to User Stories to Use Case to Design"
+	}]
+	}
+]

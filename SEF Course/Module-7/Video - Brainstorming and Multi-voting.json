@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Video - Brainstorming and Multi-voting",
+		"activityType":"video",
+		"videoURL":"13 Brainstorming with Multi-voting converted.mp4",
+		"videoResources" : "13. Video - Brainstorming and Multi-voting.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video - Brainstorming and Multi-voting"
+			}
+		
+		]
+	}
+]
+
+

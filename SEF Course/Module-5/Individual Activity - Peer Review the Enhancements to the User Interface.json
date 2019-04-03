@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Peer Review the Enhancements to the User Interface",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this activity is to establish clarity about what the enhancements for the second major calculator project submission (Double Calculator with Square Root and FSM Error Messages) should be."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["07 Individual Activity - Peer Review the Enhancements to the User Interface.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Peer Review the Enhancements to the User Interface"
+	}]
+	}
+]

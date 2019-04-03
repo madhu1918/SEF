@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Implement the design for processing values with proper units",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to focus on the implementation of your design. Producing a prototype to get something working quickly to test out your ideas is usually an excellent strategy."
+		},
+		{
+			"text": "<br>Please find the attachment"
+		},
+		{
+			"attachment": ["06 Individual Activity - Implement the design for processing values with proper units.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Implement the design for processing values with proper units"
+	}]
+	}
+]

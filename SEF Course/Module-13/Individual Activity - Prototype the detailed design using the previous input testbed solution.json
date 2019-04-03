@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Prototype the detailed design using the previous input testbed solution",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to prototype the detailed design for the GUI Units input selection in order to surface issues and resolve them prior to finishing the production of the UML Sequence Diagram."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["05 Individual Activity - Prototype the detailed design using the previous input testbed solution.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Prototype the detailed design using the previous input testbed solution"
+	}]
+	}
+]

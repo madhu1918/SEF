@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Activity - Start a UML Sequence Diagram",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to start the detailed design for the GUI Units input selection."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["04 Small Group Activity - Start a UML Sequence Diagram.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Start a UML Sequence Diagram"
+	}]
+	}
+]

@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Continue implement the design for processing values with proper units",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to leverage the experiences of the rest of your group to surface ideas on how one might better address challenging things."
+		},
+		{
+			"text": "<br>Please find the attachment"
+		},
+		{
+			"attachment": ["07 Small Group Activity - Discuss the implementation surfacing issues and insights.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Continue implement the design for processing values with proper units"
+	}]
+	}
+]

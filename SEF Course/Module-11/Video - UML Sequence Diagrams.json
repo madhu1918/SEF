@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Video - UML Sequence Diagrams",
+		"activityType":"video",
+		"videoURL":"11 UML Sequence Diagrams converted.mp4",
+		"videoResources" : "03 UML Sequence Diagrams.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video - UML Sequence Diagrams"
+			}
+		
+		]
+	}
+]
+
+

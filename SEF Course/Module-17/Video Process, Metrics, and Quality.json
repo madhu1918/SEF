@@ -1,0 +1,21 @@
+[
+	{
+		"title":"Video Process, Metrics, and Quality",
+		"activityType":"video",
+		"videoURL":"09 Process, Metrics, Quality converted.mp4",
+		"videoResources" : "09 Process, Metrics, Quality.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video Process, Metrics, and Quality"
+			}
+		
+		]
+	}
+]
+
+
+

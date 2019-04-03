@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Activity - How to round error terms to a single digit",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to get to the heart of the purpose of expressing an error term and then leverage that to deal with the issue of rounding after doing a computation."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["04 Small Group Activity - How to _round_ error terms to a single digit.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - How to round error terms to a single digit"
+	}]
+	}
+]

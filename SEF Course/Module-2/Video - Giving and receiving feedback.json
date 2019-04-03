@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Video - Giving and receiving feedback",
+		"activityType":"video",
+		"videoURL":"11 Giving and Receiving Feedback converted.mp4",
+		"videoResources" : "12 Video - Giving and receiving feedback (9).zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video - Giving and receiving feedback"
+			}
+		
+		]
+	}
+]
+
+

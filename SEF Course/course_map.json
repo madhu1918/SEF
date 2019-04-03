@@ -1,0 +1,413 @@
+{
+    "activities": [],
+    "learningObjectives": [
+        "A broad understanding of the vocabulary, principles and concepts required to produce valuable software systems.",
+        "Knowledge of techniques for analysis and design, implementation and testing of complex software intensive systems.",
+        "To provide a realistic experience by connecting the concepts and theories with practices and acitivities as needed to produce quality results."
+    ],
+    "overview": [
+        "The goal of this course is to lay solid Software Engineering Foundation for graduate students moving into their final year of studies in the MSIT program. Programming skills are crucial, but producing workable code without industry standards is not sufficient. Professionals in industry produce workable software products that seamlessly maps design into code. A successful software professional must have many skills as well as a wealth of experience in order to predictably deliver quality products on time and within budget."
+    ],
+    "title": "Software Engineering Foundation",
+    "units": [{
+            "activities": [
+                "Live - Introduction by Dr. L.R. Carter(40 mins)",
+                "Video on Introduction to Software Engineering Foundations(30 mins)",
+                "Discussion on What is this class about and why should it be taken seriously(20 mins)",
+                "Video on Professional Deliverables and How to Submit Them(20 mins)",
+                "Question and Answer - What questions do you have?  Lets get the answers(30 mins)",
+                "Video on Backstory - The need for better computation(25 mins)",
+                "Discussion - What do you think we are being asked to do(30 mins)",
+                "Small Group Activity - Introduction to Units and the Hohmann Transfer Orbit(45 mins)",
+                "Small Group Activity - Establish the development environment and get the baseline calculator running(45 mins)",
+                "Discussion - Professionalism, Quality, Peer Reviews, Engineering Notebooks(30 mins)",
+                "Activity - How to capture notes and use the ENB(30 mins)",
+                "Video - Engineering Notebooks (ENB) - A powerful tool for inventors and professionals(35 mins)",
+                "Video - Introduction to Peer Reviews",
+                "Individual Research - Verification, Validation, and Peer Review documents",
+                "How does one actually do a Peer Review",
+                "Individual Research - Units of Measure",
+                "Individual Activity - Produce and Submit an ENB entry for today"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-1"
+        },
+        {
+            "activities": [
+                "Small Group Exercise - What are the key elements and benefits of a Peer Review",
+                "Small Group Exercise - Using units in computation",
+                "Small Group Exercise - V and V and Peer Reviews",
+                "Individual Exercise - Hohmann Transfer Worksheet",
+                "Small Group Activty - Build a Class Diagram for the Integer Calculator (Baseline)_identify stubs",
+                "Small Group Activity - Enhance the Baseline Calculator into a fully functioning Integer Calculator",
+                "Individual Activity - Implement the Integer Calculator",
+                "Group Discussion - How to do a peer review when given a checklist",
+                "Individual Activity - Peer Review - The implmented Integer Calculator",
+                "Video - Test-Driven Development (TDD)",
+                "Video - An introduction to Finite State Machines - Two Videos",
+                "Video - Giving and receiving feedback",
+                "Individual Activity - Produce and Submit an ENB entry for today"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-2"
+        },
+        {
+            "activities": [
+                "Small Group Exercise - Finite State Machine Exercise",
+                "Small Group Exercise - Test-Driven Development (TDD)",
+                "Small Group Activity - Create test scripts for the Integer Calculator",
+                "Individual Activity - Refine the Integer calculator and validate it using the test script",
+                "Small Group Activity - Encoding a FSM Diagram for the simulator and testing the simulator",
+                "Individual Activity - Individual FSM experimentation",
+                "Individual Activity - ENB review-refinement with help from the mentors",
+                "Group Discussion - Why is TDD considered to be such good practice",
+                "Personal Research - What was the root cause of the Mars Climate Orbiter (MCO) failure",
+                "Video - Introduction to JavaFX Basics",
+                "Video - Finite State Machine floating point value recognizer",
+                "Individual Activity: Produce and Submit an Engineering Notebook (ENB)"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-3"
+        },
+        {
+            "activities": [
+                "Small Group Exercise - A User Interface Testbed",
+                "Small Group Exercise - JavaFX Basics",
+                "Group Discussion - A User Interface Testbed",
+                "Group Discussion - Recognizing input and the importance of good error messages",
+                "Small Group Activity - Build a To Do List for the Double Calculator using TDD",
+                "Individual Activity - Update the CalculatorValue Class to Double and test it",
+                "Group Activity - Peer Review practice checking the Update the CalculatorValue Class to Double",
+                "Group Activity - Introduction to Screencasting",
+                "Video - Introduction to Requirements and Storyboards",
+                "Read - UML Tutorial - Finite State Machines (parts 1 and 2)",
+                "Skim - Software Engineering Skills Taxonomy",
+                "Individual Activity - Produce and Submit an Engineering Note Book"
+
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-4"
+        },
+        {
+            "activities": [
+                "Small Group Exercise - Finite State Machines 1",
+                "Small Group Exercise - Finite State Machines 2",
+                "Group Activity - How to implement a FSM using Java",
+                "Individual Activity - Implement an Error Term Recognizer (ETR) using Java",
+                "Individual Activity - Enhance the Double Calculators User Interface using the Java FPR",
+                "Small Group Activity - Help others get the enhanced error message working",
+                "Individual Activity - Peer Review the Enhancements to the User Interface",
+                "Group Discussion - Review the Software Engineering Skills Taxonomy",
+                "Video - User Interface Design",
+                "Video - Taxonomy-based Personal Professional Risk Assessment (29:58)",
+                "Read Papers - Precision in Scientific Applications and Units of Measure",
+                "Individual Activity - Finish the Error Term Recognizer using Java",
+                "Individual Activity - Produce an Engineering Note Book entry for this evenings work"
+
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-5"
+        },
+        {
+            "activities": [
+                "Individual Activity - Which of the taxonomy skills are critical for your career success and why",
+                "Individual Activity - Refine the Double Calculator and add test cases to validate",
+                "Individual Activity - Produce and Engineering Note Book (ENB) entry for the days work and plan for next week"
+
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-6"
+        },
+        {
+            "activities": [
+                "Small Group Exercise - Computing with Error Terms using Addition and Subtraction",
+                "Small Group Exercise - Computing with Error Terms using Multiplication and Division",
+                "Small Group Exercise - How many different units will the calculator need",
+                "Small Group Activity - Define test cases and solutions for addition and subtraction with error terms",
+                "Individual Activity - Test driven development of addition and subtraction with error terms",
+                "Small Group Activity - Define test cases and mutiplication and division with error terms",
+                "Individual Activity - Test driven development of mutiplication and division with error terms",
+                "Video - Dynamic Select Lists",
+                "Small Group Activity - Dynamic Select Lists",
+                "Video - Introduction to Storyboards",
+                "Group Discussion - How can storyboards help us explain the calculator and how it works",
+                "Individual Research - Very long selection lists",
+                "Video - Brainstorming and Multi-voting",
+                "Reflect on the days task and Complete any incomplete jobs",
+                "Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-7"
+        },
+        {
+            "activities": [
+                "Small Group Exercise - Solving problems with units",
+                "Small Group Exercise - Very long select lists",
+                "Individual Activity - Test driven development of double calculator with square root and FSM Error Messages",
+                "Peer Review - 2 Double Calculator with Square Root and FSM Error Messages",
+                "Small Group Discussion - Start a Storyboard Design",
+                "Group Discussion - Storyboard Design Brainstorm Multi-vote - The major design choices",
+                "Small Group Discussion - How many of those elements can you implement",
+                "Individual Activity - Prepare for Storyboard discussion",
+                "Group Discussion - The Flow from Storyboard to User Stories to Use Case to Design",
+                "Videos- Introduction to Risk Management and Risk Management Techniques",
+                "Black and White Box Testing by Laurie WIlliams",
+                "MacLeod Laura - Screencasting",
+                "Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-8"
+        },
+        {
+            "activities": [
+                "Small Group Exercise - What tasks in software development are supported by screencasting",
+                "Small Group Activity - Installing and getting the screencasting software to work",
+                "Group Discussion - The use of screencasting in SEF",
+                "Individual Activity - Practicing producing a screencast",
+                "Small Group Exercise - What kinds of errors do white- and black-box tesing catch",
+                "Individual Activity - Reflection for the fast and catch up for the rest",
+                "Read Damevski - Expressing Measurement Units in Interfaces for Scientific Component Software",
+                "Individual Research - Relate Damevskis Figure 1 with Hohmann Transfer equations",
+                "Reflect on the days task and Complete any incomplete jobs",
+                "Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-9"
+        },
+        {
+            "activities": [
+                "Small Group Activity - What code from the sample implements the SelectList for two items",
+                "Small Group Activity - Implementing the SelectList Exercise for two items",
+                "Individual Activity - Implementing the SelectList Exercise",
+                "Small Group Activity - Issues and challenges implementing the SelectList",
+                "Individual Activity - Finishing the SelectList Exercise and enhancing the comments",
+                "Peer Review - Getting the SelectList Exercise to run",
+                "Small Group Exercise - Enhance the lists of English and Metric values using Damecski Figure 1",
+                "Small Group Exercise - Build conversion tables from English to Metric and Metric to English",
+                "Small Group Activity - Build operator tables for Metric values for add, subtract, multiply and divide",
+                "UML Class Diagrams",
+                "UML State Diagrams",
+                "Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-10"
+        },
+        {
+            "activities": [
+                "UML Tutorial - The Class Diagram",
+                "UML Tutorial - The sequence diagram",
+                "Video - UML Sequence Diagrams",
+                "Small Group Activity - Create a Class Diagram for the SelectList Exercise",
+                "Small Group Activity - Create a Sequence Diagram for the SelectList Exercise",
+                "Peer review individual projects - Double Calculator with Square root FSM",
+                "Produce a Screen cast  - Double Calculator with Square root FSM",
+                "Video - Software Quality and Security",
+                "Video - Unlimited Precision arithmetic",
+                "Video - Brainstorming and Multi-voting",
+                "Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-11"
+        },
+        {
+            "activities": [
+                "Video - A Professionals Portfolio",
+                "Video - Requirements, Storyboards, Use Cases",
+                "Individual Research - How does the JavaFX Accordion Select List work",
+                "Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-12"
+        },
+        {
+            "activities": [
+                "Small Group Exercise - Design choices text, combo box, accordion, or other",
+                "Small Group Exercise - Start a UML Class Diagram to model the GUI for your Units selection option",
+                "Small Group Activity - Complete the creation of the UML Class Diagram",
+                "Small Group Activity - Start a UML Sequence Diagram",
+                "Individual Activity - Prototype the detailed design using the previous input testbed solution",
+                "Small Group Activity - Complete the creation of the UML Sequence Diagram",
+                "Group Discussion - The flow from Class Diagram to Sequence Diagram to running code",
+                "Group Discussion - The shift from double to UNumber",
+                "Video on Storyboards - The Flow",
+                "Individual Research - Experimenting with UNumber",
+                "Individual Research - Measure execution time using System.nanoTime",
+                "Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-13"
+        },
+        {
+            "activities": [
+                "Small Group Exercise - Do basic arithmetic with UNumber",
+                "Small Group Exercise - Doing UNumber arithmetic with different sized operands",
+                "Small Group Activity - Handling operands with and without error terms",
+                "Small Group Activity - How to round error terms to a single digit",
+                "Individual Activity - Enhance Double Calculator with Error Terms",
+                "Peer Review - Double Calculator with Error Terms",
+                "Individual Activity - Continue to enhance Double Calculator with Error Terms",
+                "Group Discussion - Discuss how Newtons Method for finding square root works",
+                "Video Reflection and Continuous Improvement",
+                "Individual Research - Rate of convergence to a square root",
+                "Individual Research - Measure execution time using System.nanoTime",
+                "Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-14"
+        },
+        {
+            "activities": [
+                "Small Group Exercise - The regions of convergence for a square root",
+                "Small Group Exercise - How long does it take to compute square root of 10,000 digits",
+                "Small Group Activity - Risk assessment for the third and fourth week submissions",
+                "Individual Activity - Refine the list of risks and prioritize them",
+                "Individual Activity - Work to reduce the risks",
+                "Small Group Activity - Informal peer review",
+                "07 Individual Activity - Work to reduce the risks",
+                "Group Discussion -  Remaining risks for the third and fourth week submissions and ideas to address them",
+                "Video High-quality numeric output",
+                "Individual Research - Time to compute square root of 2 to roughly 1 million significant digits(Estimate )",
+                "Reflect on the days task and Complete any incomplete jobs",
+                "Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-15"
+        },
+        {
+            "activities": [
+                "Small Group Exercise - Design a Finite State Machine for an enhanced toString",
+                "Small Group Exercise - Test cases for an enhanced toString",
+                "Informal Peer Review - Flow from enhanced toString design to test cases",
+                "Individual Activity - Refine the Finite State Machine and the test cases",
+                "Individual Activity - Reflection and risk reduction",
+                "Individual Activity - Work on your project",
+                "Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-16"
+        },
+        {
+            "activities": [
+                "Small Group Exercise - Enhanced enhancedToString() for double values with an error term",
+                "Small Group Exercise - Help each other complete the estimate for computing a million digit square root of 2",
+                "Small Group Activity - Establish prioritized list of items to present in this weeks screencast",
+                "Individual Activity - Produce an outline and activity script for this weeks screencast",
+                "Individual Activity - Produce your screencast",
+                "Individual Activity - Enhance the deliverable based on the screencast experience",
+                "Peer Review - The double calculator with error terms",
+                "Group Discussion - Issues, risks, and potential solution ideas",
+                "Video Process, Metrics, and Quality",
+                "Individual Activity - Work on your project (both the code and the screencast)",
+                "Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-17"
+        },
+        {
+            "activities": [
+                "Individual Activity - Work to finish your project",
+                "Individual Activity - Submit your project",
+                "Individual Activity - Convert your double calculator to UNumber calculator",
+                "Video Successful high-performance teams",
+                "Video A tailored portfolio leveraging your portfolio repository",
+                "Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-18"
+        },
+        {
+            "activities": [
+                "Small Group Exercise - Improving Newton-Raphson when values have many significant digits",
+                "Small Group Exercise - The math behind the improvement",
+                "Small Group Activity - Design how to process values with units",
+                "Small Group Activity - Small Group Peer Review of the design",
+                "Small Group Activity - Refine the design for processing values with units",
+                "Individual Activity - Implement the design for processing values with proper units",
+                "Small Group Activity - Discuss the implementation surfacing issues and insights",
+                "Video Improving what you can say in your portfolio",
+                "Group Activity - Discuss the implementation surfacing issues and insights",
+                "Individual Activity - Refine and refactor your architecture and design",
+                "Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-19"
+        },
+        {
+            "activities": [
+                "Small Group Exercise - Discuss the work that remains, how best to do the work, and any issues",
+                "Group Discussion - Leverage the small group exercise to discuss what remains and any issues",
+                "Individual Activity - Work on the code",
+                "Individual Activity - Plan for and prepare for the screencast",
+                "Individual Activity - Work on the project, including the screencast",
+                "Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-20"
+        },
+        {
+            "activities": [
+                "01 Individual Activity - Work on the project, including the screencast",
+                "02 Peer Review - The Final Calculator",
+                "03 Individual Activity - Work on the project, including the screencast",
+                "04 Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-21"
+        },
+        {
+            "activities": [
+                "01 Individual Activity - Work on the project, including the screencast",
+                "02 Peer Review - The Final Calculator",
+                "03 Individual Activity - Work on the project, including the screencast",
+                "04 Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-22"
+        },
+        {
+            "activities": [
+                "01 Individual Activity - Work on the project, including the screencast",
+                "02 Group Activity Peer reviews (as many as time permits)",
+                "03 Individual Activity - Produce and Submit an ENB entry - Generic"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-23"
+        },
+        {
+            "activities": [
+                "Individual Activity - Final polishing of the documentation (internal and external)",
+                "Individual Activity - Submit the project, documentation, and screencast",
+                "Individual Activity - Course evaluation and feedback for improvement",
+                "Group Activity - Thank you, good luck, and farewell"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-24"
+        }
+
+
+    ]
+}

@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Final polishing of the documentation (internal and external)",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the activity</b><br>Given all of yesterday’s peer reviews, you have a few hours to make any final adjustments, but be careful that you do not try to do too much."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["01 Individual Activity - Final polishing of the documentation (internal and external).pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Final polishing of the documentation (internal and external)"
+	}]
+	}
+]

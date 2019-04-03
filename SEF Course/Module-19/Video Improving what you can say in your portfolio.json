@@ -1,0 +1,21 @@
+[
+	{
+		"title":"Video Improving what you can say in your portfolio",
+		"activityType":"video",
+		"videoURL":"08 Improving what you can say in your portfolio converted.mp4",
+		"videoResources" : "08 Video - Improving what you can say in your portfolio.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video Improving what you can say in your portfolio"
+			}
+		
+		]
+	}
+]
+
+
+

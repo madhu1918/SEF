@@ -1,0 +1,26 @@
+[
+	{
+		"title":"Videos: Introduction to Risk Management and Risk Management Techniques",
+		"activityType":"video",
+		"videoURL":"12 Introduction to Risk Management converted.mp4",
+		"videoResources" : "10.1.zip"
+	},
+	{
+		"title":"12 Risk Management Techniques",
+		"activityType":"video",
+		"videoURL":"12 Risk Management Techniques converted.mp4",
+		"videoResources" : "10.2.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Videos: Introduction to Risk Management and Risk Management Techniques"
+			}
+		
+		]
+	}
+]
+
+

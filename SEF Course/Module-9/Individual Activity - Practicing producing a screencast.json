@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Practicing producing a screencast",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this activity is to practice the ideas raised in discussions and readings for the upcoming delivery of the second calculator project delivery."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["04 Individual Activity - Practicing producing a screencast.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Practicing producing a screencast"
+	}]
+	}
+]

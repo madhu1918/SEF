@@ -1,0 +1,26 @@
+[{
+	"title": "Small Group Exercise - Design choices text, combo box, accordion, or other",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this exercise is to explore design choices for selecting the operand units."
+		},
+		{
+			"text": "<br>Please find the come prepared files"
+		},
+		{
+			"attachment": ["00 Come-prepared materials.zip"]
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["01 Small Group Exercise - Design choices text, combo box, accordion, or other.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - Design choices text, combo box, accordion, or other"
+	}]
+	}
+]

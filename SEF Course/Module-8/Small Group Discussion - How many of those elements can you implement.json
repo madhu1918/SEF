@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Discussion - How many of those elements can you implement",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to explore the ramifications of the decision to support units in the calculator."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["07 Small Group Discussion - How many of those elements can you implement.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Discussion - How many of those elements can you implement"
+	}]
+	}
+]

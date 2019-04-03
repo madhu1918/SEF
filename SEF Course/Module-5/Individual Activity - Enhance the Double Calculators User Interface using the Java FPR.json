@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Enhance the Double Calculators User Interface using the Java FPR",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this activity is to build further upon the previous activities and to enhance the error message capability of the calculator."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["05 Individual Activity - Enhance the Double Calculator_s User Interface using the Java FPR.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Enhance the Double Calculators User Interface using the Java FPR"
+	}]
+	}
+]

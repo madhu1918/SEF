@@ -1,0 +1,17 @@
+[{
+	"title": "Black and White Box Testing by Laurie WIlliams",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["11 Skim - Black and White Box Testing by Laurie Williams.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Black and White Box Testing by Laurie WIlliams"
+	}]
+	}
+]

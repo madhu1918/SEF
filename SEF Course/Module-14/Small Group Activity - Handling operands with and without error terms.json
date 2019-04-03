@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Activity - Handling operands with and without error terms",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to consider how best to explain the requirements for handing operands with and without error terms."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["03 Small Group Activity - Handling operands with and without error terms.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Handling operands with and without error terms"
+	}]
+	}
+]

@@ -1,0 +1,17 @@
+[{
+	"title": "Group Activity - Thank you, good luck, and farewell",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["04 Group Activity - Thank you, good luck, and farewell.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Group Activity - Thank you, good luck, and farewell"
+	}]
+	}
+]

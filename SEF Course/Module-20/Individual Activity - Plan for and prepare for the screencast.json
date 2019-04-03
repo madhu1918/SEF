@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Plan for and prepare for the screencast",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to maintain a balance between the technical work and the work to effectively share what you have done with others. Remember that the recruiters may not be as expert in all that you know, so you need to be able to explain your abilities and skills to people with lesser experience and capabilities. Don’t talk down to them, but communicate it ways that will impress and make them want you on their team."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["04 Individual Activity - Plan for and prepare for the screencast.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Plan for and prepare for the screencast"
+	}]
+	}
+]

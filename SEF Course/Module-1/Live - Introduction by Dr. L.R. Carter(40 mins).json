@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Live - Introduction by Dr. L.R. Carter(40 mins)",
+		"activityType":"video",
+		"videoURL":"SEF 2019 Kick-off Presentation converted.mp4",
+		"videoResources" : "01 Live - Introduction by Dr. L.R.Carter.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Live - Introduction by Dr. L.R. Carter(40 mins)"
+			}
+		
+		]
+	}
+]
+
+

@@ -1,0 +1,24 @@
+[{
+	"title": "Individual Activity - Produce and Submit an ENB entry - Generic",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text":"<b>Purpose of the activity</b><br>Keeping and maintaining effective engineering notebooks for your professional work will bring significant return to you over your career. This activity is performed every day you perform work on the project."
+		},
+		{
+			"text":"<br>Note: Please make sure that you have to submit the ENB drive link as part of this activity. This should be when you are done with all the activities and with the ENB. Whatever the score that mentors give will have no weightage for this ENB. They will evaluate separately and leave a feedback/comment for you which comes to your dashboard. When you get feedback, go back and check your ENB rubric for comments. There actually your score will get reflected into your grade."
+		},
+		{
+			"attachment": ["12 Individual Activity - Produce and Submit an ENB entry - Generic.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":100,
+		"graded": true,
+		"questionText": [{
+				"text": "Please Submit the drive link"
+			}
+		]
+	}]
+}]

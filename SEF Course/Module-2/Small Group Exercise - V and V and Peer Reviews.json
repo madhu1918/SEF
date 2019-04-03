@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Exercise - V and V and Peer Reviews",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to further develop and understanding of what a V&V is and whether or not a peer review can accomplish the role of a V&V"
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["03 Small Group Exercise - V_V and Peer Reviews.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - V and V and Peer Reviews"
+	}]
+	}
+]

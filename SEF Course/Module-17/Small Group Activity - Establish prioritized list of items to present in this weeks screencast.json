@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Activity - Establish prioritized list of items to present in this weeks screencast",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this exercise is to plan what needs to be done to produce a compelling screencast."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["03 Small Group Activity - Establish prioritized list of items to present in this week_s screencast.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Establish prioritized list of items to present in this weeks screencast"
+	}]
+	}
+]

@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Exercise - How many different units will the calculator need",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to practice thinking more deeply about the calculator project."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["03 Small Group Exercise - How many different units will the calculator need.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - How many different units will the calculator need"
+	}]
+	}
+]

@@ -1,0 +1,21 @@
+[
+	{
+		"title":"Video A tailored portfolio leveraging your portfolio repository",
+		"activityType":"video",
+		"videoURL":"05 A Tailored Portfolio Leveraging Your Portfolio Repository converted.mp4",
+		"videoResources" : "05 A Tailored Portfolio Leveraging Your Portfolio Repository.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video A tailored portfolio leveraging your portfolio repository"
+			}
+		
+		]
+	}
+]
+
+
+

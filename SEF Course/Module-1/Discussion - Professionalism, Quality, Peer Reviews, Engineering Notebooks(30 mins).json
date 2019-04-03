@@ -1,0 +1,20 @@
+[{
+	"title": "Discussion - Professionalism, Quality, Peer Reviews, Engineering Notebooks(30 mins)",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The purpose of this course is to help you learn to develop software more like a professional and less like a student. The concepts of Quality, Peer Reviews, and Engineering Notebooks are at the heart of be a professional."
+		},
+		{
+			"text": "<br>Please find the pdf below"
+		},
+		{
+			"attachment": ["10 Group Discussion - Professionalism, Quality, Peer Reviews, Engineering Notebooks.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Discussion - Professionalism, Quality, Peer Reviews, Engineering Notebooks(30 mins)"
+	}]
+	}
+]

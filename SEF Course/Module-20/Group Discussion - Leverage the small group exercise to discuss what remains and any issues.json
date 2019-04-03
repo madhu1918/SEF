@@ -1,0 +1,20 @@
+[{
+	"title": "Group Discussion - Leverage the small group exercise to discuss what remains and any issues",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to further explore issues that are blocking progress in order to see if others in the whole group have ideas on how to address them."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["02 Group Discussion - Leverage the small group exercise to discuss what remains and any issues.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Group Discussion - Leverage the small group exercise to discuss what remains and any issues"
+	}]
+	}
+]

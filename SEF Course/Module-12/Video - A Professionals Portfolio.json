@@ -1,0 +1,21 @@
+[
+	{
+		"title":"Video - A Professionals Portfolio",
+		"activityType":"video",
+		"videoURL":"01 A Professional_s Portfolio converted.mp4",
+		"videoResources" : "01 Video - A Professional_s Portfolio.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video - A Professionals Portfolio"
+			}
+		
+		]
+	}
+]
+
+
+

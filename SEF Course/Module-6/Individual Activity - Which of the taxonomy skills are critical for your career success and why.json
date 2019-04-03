@@ -1,0 +1,26 @@
+[{
+	"title": "Individual Activity - Which of the taxonomy skills are critical for your career success and why",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this activity is to encourage you to dig deeper into what a professional in the computing domain actually does and to help you on a path to establish a successful career path."
+		},
+		{
+			"text": "<br>Please find the come prepared material"
+		},
+		{
+			"attachment": ["00 Come-prepared materials.zip"]
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["01 Individual Activity - Which of the taxonomy skills are critical for your career success and why.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Which of the taxonomy skills are critical for your career success and why"
+	}]
+	}
+]

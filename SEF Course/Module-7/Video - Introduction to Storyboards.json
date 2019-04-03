@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Video - Introduction to Storyboards",
+		"activityType":"video",
+		"videoURL":"Introduction to Storyboards converted.mp4",
+		"videoResources" : "10 Video - Introduction to Storyboards (18mins 16secs).zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video - Introduction to Storyboards"
+			}
+		
+		]
+	}
+]
+
+

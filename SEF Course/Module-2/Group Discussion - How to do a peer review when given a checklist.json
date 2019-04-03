@@ -1,0 +1,20 @@
+[{
+	"title": "Group Discussion - How to do a peer review when given a checklist",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to learn about Peer Reviews driven by a provided Peer Review Form."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["activity-8.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Group Discussion - How to do a peer review when given a checklist"
+	}]
+	}
+]

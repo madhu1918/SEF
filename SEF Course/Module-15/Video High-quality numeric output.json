@@ -1,0 +1,21 @@
+[
+	{
+		"title":"Video High-quality numeric output",
+		"activityType":"video",
+		"videoURL":"09 High-Quality Numeric Output converted.mp4",
+		"videoResources" : "09 High-quality numeric output.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video High-quality numeric output"
+			}
+		
+		]
+	}
+]
+
+
+

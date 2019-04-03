@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Video on Introduction to Software Engineering Foundations(30 mins)",
+		"activityType":"video",
+		"videoURL":"01 - SEF Introduction - 2019 converted.mp4",
+		"videoResources" : "02 Video - Introduction to Software Engineering Foundations - 2019 (Video 01).zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Introduction to Software Engineering Foundations(30 mins)"
+			}
+		
+		]
+	}
+]
+
+

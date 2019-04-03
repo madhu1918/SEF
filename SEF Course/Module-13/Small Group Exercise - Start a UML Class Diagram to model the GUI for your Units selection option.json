@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Exercise - Start a UML Class Diagram to model the GUI for your Units selection option",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this exercise is to make the design choice more concrete by being specific about which classes and methods are needed to implement the GUI for the Units input selection."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["02 Small Group Exercise - Start a UML Class Diagram to model the GUI for your Units selection option.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - Start a UML Class Diagram to model the GUI for your Units selection option"
+	}]
+	}
+]

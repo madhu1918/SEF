@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Work on the code",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to focus on the production of your final calculator."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["03 Individual Activity - Work on the code.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Work on the code"
+	}]
+	}
+]

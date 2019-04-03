@@ -1,0 +1,26 @@
+[{
+	"title": "Small Group Exercise - Design a Finite State Machine for an enhanced toString",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this exercise is to begin the design of an enhanced toString to support the output required for the third deliverable and to set the stage for the final deliverable."
+		},
+		{
+			"text": "<br>Please find the come Come-prepared materials"
+		},
+		{
+			"attachment": ["00 Come-prepared materials.zip"]
+		},
+		{
+			"text": "<br>Please find the attachment"
+		},
+		{
+			"attachment": ["01 Small Group Exercise - Design a Finite State Machine for an enhanced toString.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - Design a Finite State Machine for an enhanced toString"
+	}]
+	}
+]

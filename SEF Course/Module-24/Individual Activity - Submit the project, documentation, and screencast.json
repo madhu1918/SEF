@@ -1,0 +1,38 @@
+[{
+	"title": "Individual Activity - Submit the project, documentation, and screencast",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":100,
+		"graded": true,
+		"questionText": [
+			{
+				"text": "Note: Please make sure that you have to submit the ENB drive link as part of this activity. This should be when you are done with all the activities and with the ENB. Whatever the score that mentors give will have no weightage for this ENB. They will evaluate separately and leave a feedback/comment for you which comes to your dashboard. When you get feedback, go back and check your ENB rubric for comments. There actually your score will get reflected into your grade."
+			},
+			{
+			"attachment": ["02 Individual Activity - Submit the project, documentation, and screencast.pdf"]
+			}
+		]
+	},
+	{
+		"questionType": "filesubmission",
+		"max_marks":100,
+		"graded": true,
+		"questionText": [
+			{
+				"text": "Peer review Unumber Calculator"
+			}
+		]
+	},
+	{
+		"questionType": "filesubmission",
+		"max_marks":100,
+		"graded": true,
+		"questionText": [
+			{
+				"text": "Please submit Unumber Calculator as a zip file"
+			}
+		]
+	}
+]
+}]

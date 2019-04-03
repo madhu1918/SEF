@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity – Prepare for Storyboard discussion",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this activity is to dig into the concept of a storyboard and to prepare to be an active participant in the discussion that will follow."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["08 Individual Activity - Prepare for Storyboard discussion.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity – Prepare for Storyboard discussion"
+	}]
+	}
+]

@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Activity - Design how to process values with units",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to move forward with a solid design for how units should be integrated into the calculator now that you have a clearer understanding about all of the components."
+		},
+		{
+			"text": "<br>Please find the attachment"
+		},
+		{
+			"attachment": ["03 Small Group Activity - Design how to process values with units.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Design how to process values with units"
+	}]
+	}
+]

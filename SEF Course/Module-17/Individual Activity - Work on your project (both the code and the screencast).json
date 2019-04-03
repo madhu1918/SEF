@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Work on your project (both the code and the screencast)",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to improve the deliverables based on your experience producing the screencast, actually trying to use the calculator, the peer review, and the group discussion."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["10 Individual Activity - Work on your project (both the code and the screencast).pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Work on your project (both the code and the screencast)"
+	}]
+	}
+]

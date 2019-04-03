@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Discussion - Start a Storyboard Design",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to dig down to the root causes of MCO failure in order to improve the calculator design."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["05 Small Group Discussion - Start a Storyboard Design.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Discussion - Start a Storyboard Design"
+	}]
+	}
+]

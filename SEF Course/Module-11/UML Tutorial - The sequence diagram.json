@@ -1,0 +1,17 @@
+[{
+	"title": "UML Tutorial - The sequence diagram",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["UML Tutorial - Sequence Diagrams.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the UML Tutorial - The sequence diagram"
+	}]
+	}
+]

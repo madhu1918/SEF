@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Activity - Define test cases and solutions for addition and subtraction with error terms",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to practice test-driven development and the use of basic arithmetic with measured values are expressed with error terms."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["04 Small Group Activity - Define test cases and solutions for addition and subtraction with error terms.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Define test cases and solutions for addition and subtraction with error terms"
+	}]
+	}
+]

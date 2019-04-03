@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Exercise - Build conversion tables from English to Metric and Metric to English",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to make your knowledge more concrete and to be more specific to what is required to better address the client’s needs."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["08 Small Group Exercise - Build conversion tables from English to Metric and Metric to English.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - Build conversion tables from English to Metric and Metric to English"
+	}]
+	}
+]

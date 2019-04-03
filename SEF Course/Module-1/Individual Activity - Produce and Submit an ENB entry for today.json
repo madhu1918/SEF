@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Produce and Submit an ENB entry for today",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "Keeping and maintaining effective engineering notebooks for your professional work will bring significant return to you over your career. This activity is performed every day you perform work on the project and should be done at exactly the same time that you did the work. Please do not put off capturing your notes until the evening time. Your memory is not perfect, you are likely to improperly record something, and when others find out that you did not write things down at the time of the work, they will begin to doubt the quality of your work!"
+		},
+		{
+			"text": "<br>Please find the pdf below"
+		},
+		{
+			"attachment": ["17 Individual Activity - Produce and Submit an ENB entry for today.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Produce and Submit an ENB entry for today"
+	}]
+	}
+]

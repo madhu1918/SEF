@@ -1,0 +1,20 @@
+[{
+	"title": "Group Activity - How to implement a FSM using Java",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this discussion is to start the group to shift their thinking of FSMs as just diagrams into both diagrams and the design for code."
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["03 Group Activity - How to implement an FSM using Java.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Group Activity - How to implement a FSM using Java"
+	}]
+	}
+]

@@ -1,0 +1,23 @@
+[{
+	"title": "Individual Activity - ENB review-refinement with help from the mentors",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>Taking effective notes is a skill that takes time and practice to develop. Most students have developed short-term memory skills that support preparation for final exams, but seldom produce long-term memories . Writing out notes in your own words (not copying the words of others) and explaining why the items are important and/or meaningful tends to build long lasting memories and connection.<br>"
+		},
+		{
+			"text": "Having someone review your notebook writing and asking you questions and giving you feedback tends to open you to ways of improving what you write and the probability that you will remember it, so it can be of use to you in the future."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["07 Individual Activity - ENB review and refinement with help from the mentors.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - ENB review-refinement with help from the mentors"
+	}]
+	}
+]

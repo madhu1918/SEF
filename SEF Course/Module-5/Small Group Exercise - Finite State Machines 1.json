@@ -1,0 +1,26 @@
+[{
+	"title": "Small Group Exercise - Finite State Machines 1",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to build upon what has been learned in the video and to practice using and reasonable about these formalisms in order for each student to be better positioned to actually employ them on projects appropriately."
+		},
+		{
+			"text": "<br>Please find the come prepared materials "
+		},
+		{
+			"attachment": ["00 Come-prepared materials.zip"]
+		},
+		{
+			"text": "<br>Please find the attachment "
+		},
+		{
+			"attachment": ["01 Small Group Exercise - Finite State Machines 1.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - Finite State Machines 1"
+	}]
+	}
+]

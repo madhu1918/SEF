@@ -1,0 +1,38 @@
+[{
+	"title": "Small Group Activity - Establish the development environment and get the baseline calculator running(45 mins)",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "Getting the development environment working properly so that Java applications, including support for JavaFX is functioning on each student’s computer as required is critical"
+		},
+		{
+			"text": "<br>Please find the resourses "
+		},
+		{
+			"attachment": ["activity-9.zip"]
+		},
+		{
+			"text": "<br><br>Please download the ecllipse for Windows:"
+		},
+		{
+			"attachment": ["eclipse-java-2018-12-R-win32-x86_64.zip"]
+		},
+		{
+			"text": "<br><br>Please download the ecllipse for Linux :"
+		},
+		{
+			"attachment": ["eclipse-inst-linux64.tar.gz"]
+		},
+		{
+			"text": "<br><br>Please download the ecllipse for mac :"
+		},
+		{
+			"attachment": ["eclipse-inst-mac64.dmg"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Activity - Establish the development environment and get the baseline calculator running(45 mins)"
+	}]
+	}
+]

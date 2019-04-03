@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Video - Introduction to JavaFX Basics",
+		"activityType":"video",
+		"videoURL":"10 Introduction to JavaFX Basics converted.mp4",
+		"videoResources" : "10 Video - Introduction to JavaFX Basics.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video - Introduction to JavaFX Basics"
+			}
+		
+		]
+	}
+]
+
+

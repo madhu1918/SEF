@@ -1,0 +1,26 @@
+[{
+	"title": "Individual Activity - Work to finish your project",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to finish the deliverables for the project leveraging all the feedback, experiences, and insights you have gained."
+		},
+		{
+			"text": "<br>Please find the come prepared materials"
+		},
+		{
+			"attachment": ["00 Come-prepared materials.zip"]
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["01 Individual Activity - Work to finish your project.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Work to finish your project"
+	}]
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"title":"Video - An introduction to Finite State Machines - Two Videos",
+		"activityType":"video",
+		"videoURL":"11 An Introduction to Finite State Machines converted.mp4",
+		"videoResources" : "11 An Introduction to Finite State Machines.zip"
+	},
+		{
+		"title":"Video - Finite State Machines and Specifications",
+		"activityType":"video",
+		"videoURL":"Finite State Machines and Specifications converted.mp4",
+		"videoResources" : "Finite State Machines and Specifications.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video - An introduction to Finite State Machines - Two Videos"
+			}
+		
+		]
+	}
+]
+
+

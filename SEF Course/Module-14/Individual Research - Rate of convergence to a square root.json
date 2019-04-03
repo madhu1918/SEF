@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Research - Rate of convergence to a square root",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to learn more about Newton’s Method for computing square root (also known as the Newton-Raphson Method)."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["10 Individual Research - Rate of convergence to a square root.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Research - Rate of convergence to a square root"
+	}]
+	}
+]

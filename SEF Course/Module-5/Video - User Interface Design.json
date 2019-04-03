@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Video - User Interface Design",
+		"activityType":"video",
+		"videoURL":"09 User Interface Design converted.mp4",
+		"videoResources" : "09 Video - User Interface Design.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video - User Interface Design"
+			}
+		
+		]
+	}
+]
+
+

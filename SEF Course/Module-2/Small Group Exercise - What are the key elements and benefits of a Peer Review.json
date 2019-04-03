@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Exercise - What are the key elements and benefits of a Peer Review",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>The purpose of this exercise is to build upon the previous afternoon’s videos and ensure each student can build upon what was learned then."
+		},
+		{
+			"text": "<br>Please find the pdf file "
+		},
+		{
+			"attachment": ["01 Small Group Exercise - What are the key elements and benefits of a Peer Review.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - What are the key elements and benefits of a Peer Review"
+	}]
+	}
+]

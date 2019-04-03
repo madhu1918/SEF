@@ -1,0 +1,20 @@
+[{
+	"title": "Individual Activity - Enhance Double Calculator with Error Terms",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this activity is to begin the process of producing a high-quality calculator as required for the submission this coming Friday."
+		},
+		{
+			"text": "<br>Please find the attachment file "
+		},
+		{
+			"attachment": ["05 Individual Activity - Enhance Double Calculator with Error Terms.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Individual Activity - Enhance Double Calculator with Error Terms"
+	}]
+	}
+]

@@ -1,0 +1,20 @@
+[{
+	"title": "Small Group Exercise - The math behind the improvement",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the day</b><br>The purpose of this exercise is to further understand how to get the best performance from the Newton- Raphson method by verifying that it works."
+		},
+		{
+			"text": "<br>Please find the attachment"
+		},
+		{
+			"attachment": ["02 Small Group Exercise - The math behind the improvement.pdf"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Small Group Exercise - The math behind the improvement"
+	}]
+	}
+]

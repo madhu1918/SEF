@@ -1,0 +1,20 @@
+[{
+	"title": "Group Activity - Introduction to Screencasting",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<b>Purpose of the Activity</b><br>Software professionals will need to be able to communicate with people, including those who are not in the same room, building, city, or country as you. Creating and using screencasts as a tool for communications is one way to be more effective. This activity introduces you to screencasting in case you are not familiar with it."
+		},
+		{
+			"text": "<br>Please find the zip"
+		},
+		{
+			"attachment": ["08 Group Activity - Introduction to Screencasting.zip"]
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Group Activity - Producing an effective screencast"
+	}]
+	}
+]

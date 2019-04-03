@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Video - Taxonomy-based Personal Professional Risk Assessment (29:58)",
+		"activityType":"video",
+		"videoURL":"10 Taxonomy-Based Personal Professional Risk Assessment converted.mp4",
+		"videoResources" : "10 Video - Taxonomy-based Personal Professional Risk Assessment.zip"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video - Taxonomy-based Personal Professional Risk Assessment (29:58)"
+			}
+		
+		]
+	}
+]
+
+
